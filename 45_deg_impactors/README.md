@@ -1,1 +1,0 @@
-This directory contains impact simulations with impact angle 45 degrees, impact velocity of 16 km/s (~1.5 v_esc), and for the four impactor masses that are included in the parameterizations of Itcovitz et al. (2023).
