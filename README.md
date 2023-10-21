@@ -2,9 +2,16 @@
 
 ## (authorship anonymous for review process)
 
-This repository acts as a platform for sharing the impact simulations ran in association with Itcovitz et al. (in prep.), which looked towards analyzing how iron from the impactor core accretes to the target planet in such impacts.
+This repository acts as a platform for sharing impact simulations ran in association with the manuscript, which look towards analyzing how the cores of large impactors accrete to an Earth-like planet. 
 
 Impact parameters are detailed in their file names, in the format: "mass_velocity_angle"
-- Mass (kg): Large -> 2e22; Mid -> 6e21; Small -> 2e21
-- Velocity (km s-1): Fast -> 20.0; Mid -> 16.0; Slow -> 11.2
+- Mass (kg): Large -> 3.6e22; Mid -> 8.4e21; Reg -> 5.1e21; Small -> 2.8e21
+- Velocity (km/s): Fast -> 20.0 (~2.0 v_esc); Mid -> 16.0 (~1.5 v_esc); Slow -> 11.2 (~1.0 v_esc)
+(Videos are additionally labeled by the Eulerian grid property being shown. If no such label is provided, the video shows the evolution of tracer particles.)
+
+Directories: 
+- '45_deg_impactors': impact simulations with impact angle 45 degrees and impact velocity of 16 km/s (approx. most likely values in the parameter distributions),
+- '24_hour_simulations': impact simulations with the 'large' impactor mass, mpact angle 45 degrees, and impact velocity of 16 km/s, with simulation end times of 24 hours (instead of the standard 3 hours); videos for simulations including and excluding material strength are shown,
+- 'notable_impacts': impact simulations demonstrating concepts that are important for the manuscript, including large escaping mass fractions of impactor core material, secondary impacts of impactor core material, head-on impacts, and 'huge' size impacts (1.7e23 kg).
+- 'bloopers': entertaining impact simulations that we created along the way.
 
