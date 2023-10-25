@@ -2,7 +2,7 @@
 
 ## (authorship anonymous for review process)
 
-This repository acts as a platform for sharing impact simulations ran in association with the manuscript, which look towards analyzing how the cores of large impactors accrete to an Earth-like planet. 
+This repository acts as a platform for sharing impact simulations ran in association with the manuscript, which analyze how the cores of large impactors accrete to an Earth-like planet. 
 
 Impact parameters are detailed in their file names, in the format: "mass_velocity_angle"
 - Mass (kg): Large -> 3.6e22; Mid -> 8.4e21; Reg -> 5.1e21; Small -> 2.8e21
