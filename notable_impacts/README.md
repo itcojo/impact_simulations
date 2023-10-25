@@ -1,1 +1,3 @@
-
+- _Escape (mid_mid_60)_: impact where a large majority of the impactor core material escapes the planet (i.e., remains unaccreted),
+- _Head-On (large_mid_00)_: 0 deg impact that is not covered by the manuscript's parameterization, with the morphology of the mantle rebound after crater formation exhibiting strongly different behavior to an oblique impact, and thus different accretion patterns of the impactor core,
+- _Secondary (large_slow_60)_: impact where impactor core material does not have sufficient kinetic energy to escape and so strikes the planet again at beyond 90 deg from the impact site. In this specific simulation, some material that will accrete in these secondary impacts actually leaves the simulation space; we know that it will accrete and not escape as it does not reach escape velocity at any point along its trajectory.
